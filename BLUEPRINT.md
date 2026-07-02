@@ -1,5 +1,5 @@
 # Claude Cowork
-## Full TOC Draft - Tik TOC Architecture
+## Full TOC Draft - Blueprint Architecture
 
 **Working title:** Claude Cowork: A Practitioner's Guide to Agentic Knowledge Work  
 **Author:** Humanitarians AI Incorporated  
